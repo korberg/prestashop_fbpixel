@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>fbpixel</name>
+	<displayName><![CDATA[Facebook Pixel]]></displayName>
+	<version><![CDATA[1.0.0]]></version>
+	<description><![CDATA[Simple module for Facebook Pixel tracking]]></description>
+	<author><![CDATA[OÜ Trilevik]]></author>
+	<tab><![CDATA[advertising_marketing]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+</module>
